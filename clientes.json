@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Paco",
+        "edad": "3",
+        "raza": "Bulldog",
+        "horas": "8",
+        "dueño": "Jose Luis"
+    },
+    {
+        "nombre": "Koky",
+        "edad": "2",
+        "raza": "Pekines",
+        "horas": "3",
+        "dueño": "Pepe"
+    },
+    {
+        "nombre": "Lucia",
+        "edad": "5",
+        "raza": "Golden",
+        "horas": "12",
+        "dueño": "Maria"
+    },
+    {
+        "nombre": "Milo",
+        "edad": "1",
+        "raza": "Caniche",
+        "horas": "4",
+        "dueño": "Franco"
+    },
+    {
+        "nombre": "Keyla",
+        "edad": "2",
+        "raza": "Dalmata",
+        "horas": "4",
+        "dueño": "Carlos"
+    },
+    {
+        "nombre": "Nono",
+        "edad": "7",
+        "raza": "Silvestre",
+        "horas": "3",
+        "dueño": "Maximo"
+    }
+]
